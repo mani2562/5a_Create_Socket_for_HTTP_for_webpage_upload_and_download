@@ -18,7 +18,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 ## Program 
 ## client
 ~~~
-mport socket
+import socket
 
 s = socket.socket()
 s.connect(("localhost",3024))
